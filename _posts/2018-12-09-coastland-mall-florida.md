@@ -7,9 +7,7 @@ excerpt: How not to build a shopping centre
 layout: post
 guid: https://planninghell.com/?p=68
 permalink: /coastland-mall-florida/
-classic-editor-remember:
-  - classic-editor
-image: /wp-content/uploads/2018/12/DELETE2.jpg
+image: assets/img/DELETE2-900x675.jpg
 categories:
   - Naples (USA)
 tags:
@@ -64,6 +62,7 @@ tags:
     <!-- .et_pb_column -->
   </div>
   
+<p><iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m13!1m11!1m3!1d2576.2886604883097!2d-81.79675965663706!3d26.16997041030985!2m2!1f0!2f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sau!4v1544311263090" allowfullscreen="allowfullscreen" width="800" height="600" frameborder="0"></iframe></p>
   <!-- .et_pb_row -->
   
   <div class="et_pb_row et_pb_row_8">
@@ -102,7 +101,6 @@ tags:
     
     <!-- .et_pb_column -->
   </div>
-  
   <!-- .et_pb_row -->
   
   <div class="et_pb_row et_pb_row_10">
@@ -133,6 +131,7 @@ tags:
   <!-- .et_pb_row -->
 </div>
 
+<p><iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!4v1544312152309!6m8!1m7!1svXhMZgWV6Xty7DfYAyiSCw!2m2!1d26.16852639272916!2d-81.79821539614271!3f18.991726939252658!4f13.511036128641592!5f0.7820865974627469" width="600" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <!-- .et_pb_section -->
 
 <div class="et_pb_section et_pb_section_3 et_section_regular et_section_transparent">
