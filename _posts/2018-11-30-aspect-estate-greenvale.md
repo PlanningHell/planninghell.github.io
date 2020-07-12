@@ -61,7 +61,7 @@ tags:
     <!-- .et_pb_column -->
   </div>
   
-<p style="text-align: center";><iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2702.005582346097!2d144.88732400461024!3d-37.61230549597802!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sau!4v1544309018229" width="600" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2702.005582346097!2d144.88732400461024!3d-37.61230549597802!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sau!4v1544309018229" width="600" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
   
   <!-- .et_pb_row -->
   
