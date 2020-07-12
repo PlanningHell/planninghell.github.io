@@ -23,7 +23,7 @@ _Trigger warning &#8211; developers attempting to use their brains._
 
 Let&#8217;s begin on the very edge of this suburb.
 
-<p><figure><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2785.9456991946668!2d147.0176378857179!3d-36.04802978883868!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sau!4v1591265130413!5m2!1sen!2sau" allowfullscreen="" width="600" height="450"></iframe></figure></p>
+<p><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2785.9456991946668!2d147.0176378857179!3d-36.04802978883868!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sau!4v1591265130413!5m2!1sen!2sau" allowfullscreen="" width="600" height="450"></iframe></p>
 
 It&#8217;s fantastic to see such great integration between different landholdings. Obviously each original owner sold their land to separate developers who saw absolutely no reason to build roads or footpaths that actually connect to each other. If you want to visit a friend who lives in the other estate, bad luck.
 
@@ -35,11 +35,11 @@ I&#8217;m sure that will cause absolutely no problems whatsoever in a city plagu
 
 Meanwhile, this developer a little further west decided that nobody would ever want to walk along the existing track through bushland. So instead they now have a splendid view of back fences with no way to get through.
 
-<figure><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d984.9243312797064!2d146.9851961685071!3d-36.0525225191677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sau!4v1591265492752!5m2!1sen!2sau" allowfullscreen="" width="600" height="450"></iframe></figure>
+<p><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d984.9243312797064!2d146.9851961685071!3d-36.0525225191677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sau!4v1591265492752!5m2!1sen!2sau" allowfullscreen="" width="600" height="450"></iframe></p>
 
 And finally, as usual with these sorts of hellscapes, the biggest middle finger to Jane Jacobs comes in the form of a huge fuck-off golf course in the middle of the suburb.
 
-<figure><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d4685.294516347483!2d147.0016568296979!3d-36.0495248831298!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sau!4v1591265658399!5m2!1sen!2sau" allowfullscreen="" width="600" height="450"></iframe></figure>
+<p><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d4685.294516347483!2d147.0016568296979!3d-36.0495248831298!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sau!4v1591265658399!5m2!1sen!2sau" allowfullscreen="" width="600" height="450"></iframe></p>
 
 Never mind that this used to be useful bushland with a beautiful creek bubbling away happily. 
 
