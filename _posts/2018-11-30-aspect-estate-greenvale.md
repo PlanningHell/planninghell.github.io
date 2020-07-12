@@ -9,7 +9,7 @@ guid: https://planninghell.com/?p=54
 permalink: /aspect-estate-greenvale/
 classic-editor-remember:
   - classic-editor
-image: /wp-content/uploads/2018/12/dfdfdf.png
+image: /assets/img/dfdfdf.png
 categories:
   - Melbourne
 tags:
@@ -62,22 +62,7 @@ tags:
     <!-- .et_pb_column -->
   </div>
   
-  <!-- .et_pb_row -->
-  
-  <div class="et_pb_row et_pb_row_3">
-    <div class="et_pb_column et_pb_column_4_4 et_pb_column_3    et_pb_css_mix_blend_mode_passthrough et-last-child">
-      <div class="et_pb_module et_pb_code et_pb_code_0">
-        <div class="et_pb_code_inner">
-        </div>
-        
-        <!-- .et_pb_code_inner -->
-      </div>
-      
-      <!-- .et_pb_code -->
-    </div>
-    
-    <!-- .et_pb_column -->
-  </div>
+<iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2702.005582346097!2d144.88732400461024!3d-37.61230549597802!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sau!4v1544309018229" width="600" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
   
   <!-- .et_pb_row -->
   
