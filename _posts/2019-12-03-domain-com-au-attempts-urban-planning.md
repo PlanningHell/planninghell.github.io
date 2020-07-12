@@ -6,7 +6,7 @@ author: Planner
 layout: post
 guid: https://planninghell.com/?p=112
 permalink: /domain-com-au-attempts-urban-planning/
-image: /wp-content/uploads/2019/12/facepalm1.jpg
+image: assets/img/facepalm1.jpg
 categories:
   - Rants
 tags:
