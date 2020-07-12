@@ -8,7 +8,7 @@ layout: post
 guid: https://planninghell.com/?p=54
 permalink: /aspect-estate-greenvale/
 
-image: /assets/img/dfdfdf.png
+image: assets/img/dfdfdf.png
 categories:
   - Melbourne
 tags:
