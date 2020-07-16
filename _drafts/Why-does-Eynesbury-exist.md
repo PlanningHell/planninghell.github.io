@@ -1,15 +1,16 @@
 ---
 id: 190
 title: Why does Eynesbury exist?
-date: 2020-07-10T21:40:36+10:00
+date: {}
 author: Planner
 layout: post
-guid: https://planninghell.com/?p=190
+guid: 'https://planninghell.com/?p=190'
 permalink: /?p=190
 categories:
   - Uncategorised
+published: true
 ---
-If you&#8217;ve ever heard of this inky stain on the landscape of Victoria, well done. Your brain has been damaged already, purely by exposure to such a cesspool of bad planning and design.  
+If you've ever heard of this inky stain on the landscape of Victoria, well done. Your brain has been damaged already, purely by exposure to such a cesspool of bad planning and design.  
   
 If not and your mind is unsullied by such filth, then read on to find out more.
 
